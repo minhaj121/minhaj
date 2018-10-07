@@ -1,1 +1,1 @@
-# minhaj
+Alumni Managment System
